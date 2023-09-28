@@ -1,0 +1,5 @@
+outs:
+- md5: a1c77e145d5186bb1899410de7792bc5
+  size: 9952
+  hash: md5
+  path: AdventureWorks_Calendar.csv

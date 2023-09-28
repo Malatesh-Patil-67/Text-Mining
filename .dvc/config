@@ -1,0 +1,8 @@
+[core]
+    remote = mygitremote
+['remote "myremote"']
+    url = /Users/malateshgirishpatil/Desktop/sentiment/bdp2_apr22_exam-bdp2_apr22_group_3
+['remote "mylocalremote"']
+    url = ../AdventureWorks_Calendar.csv
+['remote "mygitremote"']
+    url = https://github.com/Big-Data-Programming/bdp2_apr22_exam-bdp2_apr22_group_3
